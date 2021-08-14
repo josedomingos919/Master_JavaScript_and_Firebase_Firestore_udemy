@@ -1,0 +1,16 @@
+## Primitive ##
+
+String
+Number
+Boolean
+Null
+Undefined
+Symbol (ES6)
+
+## Reference ##
+
+Array
+Object
+Function
+Dates
+Anything else...
