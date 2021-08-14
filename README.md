@@ -6,7 +6,6 @@ Master JavaScript and Firebase Firestore with Pure JavaScript！JavaScript ES6+,
  - Asynchronous JavaScript: The event loop, promises, async/await, AJAX and APIs
  - OOP including ES5 prototypes & ES6 classes
  - ES6 features like arrow functions, classes, default and rest parameters, etc.
-<br>
 
 ## Requisitos
 - No coding experience is required in this course
