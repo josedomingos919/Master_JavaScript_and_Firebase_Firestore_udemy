@@ -9,11 +9,9 @@ Master JavaScript and Firebase Firestore with Pure JavaScript！JavaScript ES6+,
 <br>
 
 ## Requisitos
-No coding experience is required in this course
-Basic HTML/ CSS knowledge is an advantage, but not a must
-All you need is a computer
-Descrição
-This is a JavaScript course for everybody.
+- No coding experience is required in this course
+- Basic HTML/ CSS knowledge is an advantage, but not a must
+- All you need is a computer
 
 # JavaScript is everywhere
 
