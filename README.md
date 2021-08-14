@@ -1,7 +1,7 @@
 # Master_JavaScript_and_Firebase_Firestore_udemy 2021
 Master JavaScript and Firebase Firestore with Pure JavaScript！JavaScript ES6+, OOP, AJAX 2021
-<br>
-##O que você aprenderá
+<br><br>
+## O que você aprenderá
  - Go from a total beginner to an advanced JavaScript developer
  - Asynchronous JavaScript: The event loop, promises, async/await, AJAX and APIs
  - OOP including ES5 prototypes & ES6 classes
